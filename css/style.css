@@ -1,0 +1,107 @@
+/*  -- Reset, Body & Header -- */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(bg.jpg);
+}
+header {
+    padding-top: 40px;
+    padding-left: 505px;
+}
+
+
+/*  -- Content Style -- */
+.container {
+    width: 500px;
+    height: 400px;
+    margin: 30px auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background: #801380;
+    position: relative;
+}
+
+
+/*  -- Content Data Area -- */
+.number {
+    margin: 30px;
+}
+.type {
+    padding: 10px;
+    border-style: none;
+    border-radius: 40px;
+}
+.text {
+    color: #fff;
+    margin-right: 10px;
+}
+
+
+/*  -- Button -- */
+.btn-1 {
+    color: #fff;
+    font-size: 0.9em;
+    padding: 10px 50px 10px 50px;
+    border-style: none;
+    border-radius: 20px;
+    background: #de44fd;
+}
+.btn-1:hover {
+    background: linear-gradient( to right, #a149b3, #B404AE );
+}
+
+
+/*  -- Result -- */
+.result {
+    margin: 30px;
+    margin-left: 250px;
+    padding-top: 30px;
+}
+.result-x {
+    color: white;
+    margin-right: 10px;
+}
+.result-y {
+    padding: 10px;
+    border-style: dotted;
+    border-color: #fff;
+    border-radius: 40px;
+    background: #801380;
+}
+
+
+/*  -- Calculator -- */
+.calculator {
+    height: 0px;
+    width: 170px;
+    font-size: 2em;
+    margin-top: -175px;
+    margin-left: 50px;
+}
+.btn-calculator {
+    color: #fff;
+    font-size: 0.5em;
+    line-height: 10px;
+    margin: -4px;
+    padding: 15px;
+    border-style: none;
+    border-radius: 10px;
+    background: #8d178d;
+}
+.btn-calculator:hover {
+    background: linear-gradient( to right, #a149b3, #B404AE );
+}
+.btn-calculator-x {
+    text-align: center;
+    padding-right: 60px;
+}
+.btn-calculator-y {
+    padding-left: 20px;
+}
+ 
+/* -- xx -- */
