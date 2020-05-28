@@ -1,21 +1,24 @@
-# Calculadora de Pitágoras
+<h1 align="center">
+  Calculadora de Pitágoras
+</h1>
 
-### Projeto desenvolvido através de um desafio proposto em um grupo no Whatsapp. 
-A meta era desenvolver o layout de uma calculadora capaz de calcular a relação entre os lados de um triângulo 
-retângulo (mais conhecido como Teorema de Pitágoras).
+### Este é o meu quarto projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o aprendizado de Desenvolvimento Web. E através dos repositórios está sendo possível acompanhar uma timeline da minha evolução.
+________
+ 
+### 📚 Tecnologias utilizadas:
+* CSS
+* HTML
 
-Estando cumprido o desafio, este é o meu quarto projeto desenvolvido com o objetivo de aprimorar os 
-meus conhecimentos durante o meu aprendizado em Desenvolvimento Web.
+### ✨ Sobre o projeto e o que eu aprendi:
+O desafio era desenvolver o layout de uma calculadora capaz de calcular a relação entre os lados de um triângulo 
+retângulo (mais conhecido como Teorema de Pitágoras). O design foi desenvolvido por uma integrante do grupo e então tivemos que recriar o layout utilizando HTML e CSS.
 
-Através dos repositórios está sendo possível acompanhar a minha evolução no aprendizado.
+*Para este projeto eu aprendi como utilizar modelos de maixa, propriedades width e height, padding e margin e personalização de botões.*
 
-### ~ Para este projeto, eu pude colocar em prática meus conhecimentos em: 
-* Formulários
-* Modelos de Caixa
-* Propriedades Width e Height
-* Padding e Margin
-* Personalização de Botões
+### 📷 GIF do site:
+![](screenshots/1.gif)
+________
 
-## Screenshots do site:
-
-![](screenshots/1.png)
+<h4 align="center">
+  Feito com ❤ by Brenda Miranda
+</h4>
