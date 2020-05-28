@@ -2,7 +2,7 @@
   Calculadora de Pitágoras
 </h1>
 
-### Este é o meu quarto projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o aprendizado de Desenvolvimento Web. E através dos repositórios está sendo possível acompanhar uma timeline da minha evolução.
+### Este é o meu quinto projeto desenvolvido com o objetivo de colocar em prática os conhecimentos obtidos durante o aprendizado de Desenvolvimento Web. E através dos repositórios está sendo possível acompanhar uma timeline da minha evolução.
 ________
  
 ### 📚 Tecnologias utilizadas:
